@@ -1,4 +1,3 @@
-## EDPM
 **EDPM** is the name of the course “Experimental Data Processing Methods” on which this utility was developed.
 ---
 Provides features such as:
